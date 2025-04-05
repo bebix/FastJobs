@@ -1,0 +1,69 @@
+.SignInBtn{
+    margin:20px;
+  font-size: 30px;
+  color:white;
+  background-color: #2d283e;
+  border: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 25px;
+  width: 20%;
+  margin-left:800px;
+
+}
+.SignInBtn:hover{
+
+    box-shadow: 0 7px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.block{
+   margin:5px;
+  margin-left:850px;
+  font-size: 30px;
+}
+
+.p1{
+    text-align: center;
+  color: rgb(58, 52, 52);
+  text-indent: 100px;
+  letter-spacing: 3px;
+  text-decoration: none;
+  font-size: 30px; 
+}
+.forgotBtn{
+    margin:20px;
+    font-size: 30px;
+    color:white;
+    background-color: #d60909;
+    border: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 25px;
+    width: 20%;
+    margin-left:800px;
+}
+.forgotBtn:hover{
+
+    box-shadow: 0 7px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.googleBtn
+{
+    margin:20px;
+    font-size: 30px;
+    color:white;
+    background-color: #888383;
+    border: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 25px;
+    width: 20%;
+    margin-left:800px;
+}
+.googleBtn:hover{
+
+    box-shadow: 0 7px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
